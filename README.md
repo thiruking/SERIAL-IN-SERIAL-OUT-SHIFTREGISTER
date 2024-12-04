@@ -56,7 +56,8 @@ RegisterNumber:24900491
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Screenshot 2024-12-04 083229](https://github.com/user-attachments/assets/0041a7ea-267a-4a1e-b393-f3b365a12a77)
+![Screenshot 2024-12-04 090016](https://github.com/user-attachments/assets/3f4fc3f2-b8da-4e27-8e50-9ebd1cc484bd)
+
 
 
 **RESULTS**
